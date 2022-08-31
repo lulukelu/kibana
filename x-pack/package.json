@@ -276,7 +276,7 @@
     "mime": "^2.4.4",
     "moment": "^2.24.0",
     "moment-duration-format": "^2.3.2",
-    "moment-timezone": "^0.5.27",
+    "moment-timezone": "^0.5.35",
     "monaco-editor": "~0.17.0",
     "ngreact": "^0.5.1",
     "nock": "10.0.6",
